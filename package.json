@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder2",
+  "version": "1.0.0",
+  "description": "friend finder application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldalaeen/friend-finder2.git"
+  },
+  "author": "Aldaleen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldalaeen/friend-finder2/issues"
+  },
+  "homepage": "https://github.com/Aldalaeen/friend-finder2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
